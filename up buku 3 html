@@ -1,0 +1,330 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, width=device-width" />
+
+    <link rel="stylesheet" href="./global.css" />
+    <link rel="stylesheet" href="./upload-buku3.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500;700&display=swap"
+    />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Pecita:wght@400&display=swap"
+    />
+  </head>
+  <body>
+    <div class="upload-buku3">
+      <div class="upload-buku3-child"></div>
+      <section class="sidebar-parent">
+        <div class="sidebar1">
+          <div class="instance-group">
+            <img
+              class="frame-item"
+              loading="lazy"
+              alt=""
+              src="./public/frame-531.svg"
+              id="frameIcon"
+            />
+
+            <div class="sidebar-icons">
+              <img
+                class="house-chimney-streamline-ulti-icon1"
+                loading="lazy"
+                alt=""
+                src="./public/housechimneystreamlineultimatesvg.svg"
+                id="houseChimneyStreamlineUltiIcon"
+              />
+
+              <img
+                class="archive-books-streamline-ulti-icon1"
+                loading="lazy"
+                alt=""
+                src="./public/archivebooksstreamlineultimatesvg.svg"
+                id="archiveBooksStreamlineUltiIcon"
+              />
+
+              <img
+                class="book-close-bookmark-1-streaml-icon1"
+                loading="lazy"
+                alt=""
+                src="./public/bookclosebookmark1streamlineultimatesvg.svg"
+                id="bookCloseBookmark1StreamlIcon"
+              />
+
+              <img
+                class="content-pen-write-streamline-icon1"
+                loading="lazy"
+                alt=""
+                src="./public/contentpenwritestreamlineultimatesvg1.svg"
+                id="contentPenWriteStreamlineIcon"
+              />
+
+              <img
+                class="check-badge-streamline-ultima-icon3"
+                loading="lazy"
+                alt=""
+                src="./public/checkbadgestreamlineultimatesvg1.svg"
+                id="checkBadgeStreamlineUltimaIcon"
+              />
+            </div>
+          </div>
+          <img
+            class="cog-streamline-ultimatesvg-icon1"
+            loading="lazy"
+            alt=""
+            src="./public/cogstreamlineultimatesvg.svg"
+            id="cogStreamlineUltimatesvgIcon"
+          />
+        </div>
+        <div class="page-content">
+          <header class="navbar-before-login1">
+            <div class="navigation-left">
+              <div class="search-barlogin1">
+                <img
+                  class="search-circle-streamline-ulti-icon1"
+                  alt=""
+                  src="./public/searchcirclestreamlineultimatesvg1.svg"
+                />
+
+                <input
+                  class="search-bar1"
+                  placeholder="Cari Buku"
+                  type="text"
+                />
+              </div>
+              <img
+                class="filter-1-streamline-ultimate-icon1"
+                alt=""
+                src="./public/filter1streamlineultimatesvg1.svg"
+              />
+            </div>
+            <div class="navigation-right">
+              <button class="button6">
+                <img
+                  class="user-circle-single-streamline-icon1"
+                  alt=""
+                  src="./public/usercirclesinglestreamlinecoresvg1.svg"
+                />
+
+                <a class="button7">Anonim</a>
+                <img class="check-double-streamline-ultim-icon3" alt="" />
+              </button>
+              <img
+                class="alert-bell-notification-2-str-icon1"
+                loading="lazy"
+                alt=""
+                src="./public/alertbellnotification2streamlineultimatesvg.svg"
+              />
+            </div>
+          </header>
+          <div class="hero-banner">
+            <div class="banner-content">
+              <div class="unggah-buku-kamu-sekarang-parent">
+                <h1 class="unggah-buku-kamu">Unggah Buku Kamu Sekarang !</h1>
+                <p class="proses-unggah-yang-container">
+                  <span class="proses-unggah-yang"
+                    >Proses unggah yang mudah dan cepat. Kamu hanya perlu
+                    mengikuti
+                  </span>
+                  <span class="beberapa-langkah-sederhana"
+                    >beberapa langkah sederhana, dan buku kamu akan tersedia
+                  </span>
+                  <span class="untuk-diakses-oleh"
+                    >untuk diakses oleh pembaca kami.</span
+                  >
+                </p>
+              </div>
+              <div class="upload-steps">
+                <div class="frame-parent1">
+                  <div class="frame-wrapper1">
+                    <div class="steps-progress-parent">
+                      <div class="steps-progress">
+                        <div class="steps-separator">
+                          <div class="step-placeholder">1</div>
+                        </div>
+                        <div class="isi-data-buku">Isi Data Buku</div>
+                      </div>
+                      <div class="steps-progress1">
+                        <div class="wrapper">
+                          <div class="div">2</div>
+                        </div>
+                        <div class="unggah-buku">Unggah Buku</div>
+                      </div>
+                      <div class="steps-progress2">
+                        <div class="container">
+                          <div class="div1">3</div>
+                        </div>
+                        <div class="selesai">Selesai</div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="upload-confirmation">
+                    <div class="upload-confirmation-child"></div>
+                    <div class="confirmation-content">
+                      <div class="confirmation-icon">
+                        <img
+                          class="emojione-v1orange-book-icon"
+                          loading="lazy"
+                          alt=""
+                          src="./public/emojionev1orangebook.svg"
+                        />
+                      </div>
+                      <div class="confirmation-message">
+                        <div class="buku-berhasil-diunggah-wrapper">
+                          <h1 class="buku-berhasil-diunggah">
+                            Buku Berhasil Diunggah !
+                          </h1>
+                        </div>
+                        <p class="selamat-buku-kamu-container">
+                          <span class="selamat">Selamat! </span>
+                          <span class="buku-kamu-telah"
+                            >Buku kamu telah berhasil diunggah dan kini tersedia
+                            di platform kami.
+                          </span>
+                          <span class="kami-sangat-senang"
+                            >Kami sangat senang menyambut karyamu dalam koleksi
+                            kami.</span
+                          >
+                        </p>
+                      </div>
+                    </div>
+                    <div class="home-button">
+                      <button class="primary-button" id="primaryButton">
+                        <div class="kembali-ke-beranda">Kembali Ke Beranda</div>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+      <footer class="footer1">
+        <div class="footer-content">
+          <div class="tentang-kami-group">
+            <h3 class="tentang-kami1">Tentang kami</h3>
+            <div class="about-description">
+              <div class="di-lentera-sastra-container1">
+                <p class="di-lentera-sastra1">
+                  Di Lentera Sastra, kami lebih dari sekedar perpustakaan; kami
+                  merupakan pintu gerbang menuju imajinasi dan pengetahuan.
+                </p>
+                <p class="bergabunglah-dengan-kami1">
+                  Bergabunglah dengan kami dalam perjalanan melalui kata-kata
+                  yang tertulis dalam sastra.
+                </p>
+                <p class="blank-line1">&nbsp;</p>
+                <p class="kontak-kami1">Kontak kami:</p>
+              </div>
+              <div class="social-icons">
+                <img
+                  class="twitter-logo-1-streamline-log-icon1"
+                  loading="lazy"
+                  alt=""
+                  src="./public/twitterlogo1streamlinelogossvg.svg"
+                />
+
+                <img
+                  class="instagram-logo-2-streamline-l-icon1"
+                  loading="lazy"
+                  alt=""
+                  src="./public/instagramlogo2streamlinelogossvg.svg"
+                />
+
+                <img
+                  class="facebook-logo-1-streamline-lo-icon1"
+                  loading="lazy"
+                  alt=""
+                  src="./public/facebooklogo1streamlinelogossvg.svg"
+                />
+              </div>
+            </div>
+          </div>
+          <div class="brand-name">
+            <h1 class="lentera-sastra1">Lentera Sastra</h1>
+          </div>
+        </div>
+        <div class="footer-divider1"></div>
+        <div class="copyright-created-by-sleep-d-container">
+          <div class="copyright-created1">
+            COPYRIGHT © CREATED BY Sleep Deprived Squad
+          </div>
+        </div>
+      </footer>
+    </div>
+
+    <script>
+      var frameIcon = document.getElementById("frameIcon");
+      if (frameIcon) {
+        frameIcon.addEventListener("click", function (e) {
+          // Please sync "About us" to the project
+        });
+      }
+      
+      var houseChimneyStreamlineUltiIcon = document.getElementById(
+        "houseChimneyStreamlineUltiIcon"
+      );
+      if (houseChimneyStreamlineUltiIcon) {
+        houseChimneyStreamlineUltiIcon.addEventListener("click", function (e) {
+          // Please sync "Landing page // login" to the project
+        });
+      }
+      
+      var archiveBooksStreamlineUltiIcon = document.getElementById(
+        "archiveBooksStreamlineUltiIcon"
+      );
+      if (archiveBooksStreamlineUltiIcon) {
+        archiveBooksStreamlineUltiIcon.addEventListener("click", function (e) {
+          // Please sync "Perpustakaan" to the project
+        });
+      }
+      
+      var bookCloseBookmark1StreamlIcon = document.getElementById(
+        "bookCloseBookmark1StreamlIcon"
+      );
+      if (bookCloseBookmark1StreamlIcon) {
+        bookCloseBookmark1StreamlIcon.addEventListener("click", function (e) {
+          // Please sync "Bookmark user" to the project
+        });
+      }
+      
+      var contentPenWriteStreamlineIcon = document.getElementById(
+        "contentPenWriteStreamlineIcon"
+      );
+      if (contentPenWriteStreamlineIcon) {
+        contentPenWriteStreamlineIcon.addEventListener("click", function (e) {
+          // Please sync "upload buku1" to the project
+        });
+      }
+      
+      var checkBadgeStreamlineUltimaIcon = document.getElementById(
+        "checkBadgeStreamlineUltimaIcon"
+      );
+      if (checkBadgeStreamlineUltimaIcon) {
+        checkBadgeStreamlineUltimaIcon.addEventListener("click", function (e) {
+          window.location.href = "./plan-user.html";
+        });
+      }
+      
+      var cogStreamlineUltimatesvgIcon = document.getElementById(
+        "cogStreamlineUltimatesvgIcon"
+      );
+      if (cogStreamlineUltimatesvgIcon) {
+        cogStreamlineUltimatesvgIcon.addEventListener("click", function (e) {
+          // Please sync "Pengaturan info" to the project
+        });
+      }
+      
+      var primaryButton = document.getElementById("primaryButton");
+      if (primaryButton) {
+        primaryButton.addEventListener("click", function (e) {
+          // Please sync "Landing page // login" to the project
+        });
+      }
+      </script>
+  </body>
+</html>
